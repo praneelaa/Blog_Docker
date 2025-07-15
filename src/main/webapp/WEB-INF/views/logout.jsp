@@ -5,7 +5,8 @@
     <title>Logged Out</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
 </head>
-<body>
+<body class="home-bg">
+
 
 <!-- 🔹 Message Section -->
 <div class="container">

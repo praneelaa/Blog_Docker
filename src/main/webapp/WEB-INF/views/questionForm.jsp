@@ -6,7 +6,8 @@
     <title>Ask a Fun Question</title>
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
 </head>
-<body>
+<body class="home-bg">
+
 
 <!-- 🔘 Dark Mode Toggle -->
 <button class="toggle-theme" onclick="toggleTheme()">Toggle Theme</button>

@@ -13,7 +13,8 @@
         }
     </style>
 </head>
-<body>
+<body class="home-bg">
+
 
 <!-- 🔘 Top Bar with Toggle on left, buttons on right -->
 <div class="top-bar">
