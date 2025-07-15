@@ -13,4 +13,4 @@ RUN chmod +x mvnw
 
 
 # Run the jar file (update the JAR name if it's different)
-CMD ["java", "-jar", "target/bookstore-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/bookstore-0.0.1-SNAPSHOT.ja"]
